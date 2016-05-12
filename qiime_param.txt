@@ -1,0 +1,4 @@
+pick_otus:enable_rev_strand_match True
+pick_otus:similarity 0.97
+assign_taxonomy:id_to_taxonomy_fp /home/li.ye/Script/pipeline/16S_pipeline_V3/database/greengene_13_8_97_otu_taxonomy.txt
+assign_taxonomy:reference_seqs_fp /home/li.ye/Script/pipeline/16S_pipeline_V3/database/greengene_13_8_97_otus.fasta
